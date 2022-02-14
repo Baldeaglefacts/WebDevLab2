@@ -1,0 +1,44 @@
+#page-title {
+    Color: blue;
+}
+.favorite-section {
+    border: red 5px inset;
+    margin: 5px;
+    padding: 5px;
+}
+.section-header {
+    color: red;
+    text-shadow: blue 2px 1px;
+}
+body {
+    background-color: deepskyblue;
+}
+#favorite-movie-title {
+    font-style: italic;
+    color: blueviolet;
+}
+#favorite-animal-name {
+    font-weight: bold;
+    color: white;
+}
+#most-favorite-food {
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+}
+.favorite-image {
+    border-radius: 8px;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+table, th, td {
+    border: black 1px solid;
+}
+th {
+    color: black;
+    font-weight: bolder;
+}
+td {
+    color: white;
+}
